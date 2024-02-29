@@ -1,5 +1,9 @@
 public class Git{
+static void print(){
+System.out.println("1");
+}
 public static void main(string [] args){
+println();
 System.out.println("Restart");
 System.out.println("Learn and Earn ");
 }
